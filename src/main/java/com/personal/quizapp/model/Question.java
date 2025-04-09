@@ -1,4 +1,4 @@
-package com.personal.quizapp;
+package com.personal.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
